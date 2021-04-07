@@ -1,0 +1,38 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+select{
+	margin-top:10px;
+	margin-bottom: 10px;
+}
+
+.formve{
+width: 400px;
+background: #FAF7F7;
+padding:30px;
+margin: auto;
+margin-top: 100px;
+border-radius: 4px;
+font-family: 'Monotype Corsiva';
+color: black;
+}
+.formve h4{
+ font-size: 22px;
+ margin-bottom: 20px;
+}
+
+.controls{
+	width: 340px;
+	background: #F7370E;
+	padding: 100px
+	border-radius:100px;
+	margin-bottom:10px;
+	margin-top: 5px;
+	border: 5px;
+	font-family: 'Monotype Corsiva';
+	font-size: 20px;
+}
+
